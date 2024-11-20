@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gourmet Delights - Our Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Explore Our Delicious Menu</h1>
+    <p>We only use the <em style="font-weight: bold; color: green;">freshest</em> ingredients to bring you the best experience!</p>
+    <hr>
+    <h2>Appetizers</h2>
+    <ul>
+        <li>Garlic Bread</li>
+        <li>Bruschetta</li>
+        <li>Stuffed Mushrooms</li>
+    </ul>
+    <hr>
+    <h2>Main Course</h2>
+    <ul>
+        <li>Grilled Chicken</li>
+        <li>Steak with Potatoes</li>
+        <li>Vegetarian Pasta</li>
+    </ul>
+    <hr>
+    <h2>Desserts</h2>
+    <ul>
+        <li>Chocolate Cake</li>
+        <li>Cheesecake</li>
+        <li>Ice Cream Sundae</li>
+    </ul>
+    <hr>
+    <img src="food.jpg" alt="Delicious Gourmet Dish" class="menu-image">
+    <p><a href="index.html">Back to Home</a></p>
+    <hr>
+</body>
+</html>
